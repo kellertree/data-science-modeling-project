@@ -1,0 +1,16 @@
+---
+title: "Data Science Modeling Project"
+authors: "Keller Tree, Owen Kurtz, Julie Li, Noor Bukhari"
+date: "Project Proposal Due on: 2025-11-12"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = TRUE, message = FALSE,
+                      error = TRUE)
+
+library(tidyverse)
+```
+
+
