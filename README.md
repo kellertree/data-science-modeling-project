@@ -22,7 +22,7 @@ Bureau of Labor Statistics – Employment Status
 https://www.bls.gov/cps/cps_aa2023.htm#empstat
 
 Dataset Used:
-Table A-1. Employment Status of the Civilian Noninstitutional Population, 1953–2023
+Table 1. Employment Status of the Civilian Noninstitutional Population, 1953–2023
 
 Repository:
 GitHub Repository (Base Files & README)
