@@ -18,7 +18,7 @@ library(tidyverse)
 
 Noor Bukhari
 
-Julier Li
+Julie Li
 
 Owen Kurtz 
 
@@ -52,6 +52,7 @@ Note: You do not need to create the graph just yet, just a description is requir
 **The type of inference method we will use:**
 
 Difference of two population means.
+
 
 
 
