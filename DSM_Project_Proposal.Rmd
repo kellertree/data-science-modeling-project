@@ -1,0 +1,60 @@
+---
+title: "Data Science Modeling Project"
+authors: "Keller Tree, Owen Kurtz, Julie Li, Noor Bukhari"
+date: "Project Proposal Due on: 2025-11-12"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = TRUE, message = FALSE,
+                      error = TRUE)
+
+library(tidyverse)
+```
+
+
+**Group Member Names:**
+
+Noor Bukhari
+
+Julier Li
+
+Owen Kurtz 
+
+Keller Tree
+
+**Group Communication Method:**
+
+- We will communicate via text message anytime and in-person during discussion.
+- We can use github for version control and document sharing. 
+
+**The question of interest:**
+
+Owen suggested using the Bureau of Labor Statistics data to compare differences (like comparing differences between 2023 employment data to 2024).
+
+Proposed question: "How does unemployment in 2023 compare to 2024?"
+
+**Links:**
+
+data source: https://www.bls.gov/cps/cps_aa2023.htm#empstat
+github link to README and Base Files: https://github.com/kellertree/data-science-modeling-project/tree/main
+
+**A description of the data:**
+
+[Insert Description here]
+
+**Outline of graph related to our question:**
+
+[Insert outline of graph here]
+Note: You do not need to create the graph just yet, just a description is required.
+
+**The type of inference method we will use:**
+
+Difference of two population means.
+
+
+
+
+
+
