@@ -1,0 +1,66 @@
+---
+title: "Data Science Modeling Project"
+authors: "Keller Tree, Owen Kurtz, Julie Li, Noor Bukhari"
+date: "Project Proposal Due on: 2025-11-12"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = TRUE, message = FALSE,
+                      error = TRUE)
+
+library(tidyverse)
+```
+
+
+**Group Member Names:**
+
+Noor Bukhari
+
+Julie Li
+
+Owen Kurtz 
+
+Keller Tree
+
+**Group Communication Method:**
+
+- We will communicate via text message anytime and in-person during discussion.
+- We can use github for version control and document sharing. 
+
+**The question of interest:**
+
+Main resource the Bureau of Labor Statistics data to compare differences in employment from 2019 to 2020.
+
+"What is the difference between unemployment in 2019 and 2020?"
+
+We chose this because generally we are conceptually aware of the increase in unemployment in 2020 due to the COVID19 pandemic. However, we want to visualize the difference in unemployment between both years by means of percent of unemployed civilian non-institutional population.
+
+**Links:**
+
+data source (Select option 1 under Employment Status: https://www.bls.gov/cps/cps_aa2023.htm#empstat
+
+data set: 
+https://www.bls.gov/cps/data/aa2023/cpsaat01.htm
+
+
+Github link to README, data and base files: https://github.com/kellertree/data-science-modeling-project/tree/main
+
+**A description of the data:**
+
+The U.S. Bureau of Labor Statistics collects employment data for various fields and categories such as unemployment data. They have been collecting and storing this information since the early 1940s to date. This specific data set (https://www.bls.gov/cps/data/aa2023/cpsaat01.htm) lists the employment status of the civilian non-institutional population, 1953 to 2023 of persons 16 years of age and over.
+
+**Outline of graph related to our question:**
+
+We believe we can smoothly visualize this using a bar graph since we are comparing to distinct instances of unemployment percentage.
+
+**The type of inference method we will use:**
+
+We can achieve this by using the difference of two populations.The dataset leaves option for further exploration if desired (such as seeing average unemployment between 1990-2000 and 2000-2010) if needed.
+
+
+
+
+
+
